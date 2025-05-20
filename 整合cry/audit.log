@@ -1,0 +1,34 @@
+2025-05-20 22:22:29.305483 | ryder | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 22:33:36.653740 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 22:33:38.422555 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 22:41:13.053671 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 22:41:34.052462 | user123 | 2fa_verify_failed | {'code': '123456', 'ip': '127.0.0.1'}
+2025-05-20 22:41:54.575060 | user123 | 2fa_verify_failed | {'code': '123456', 'ip': '127.0.0.1'}
+2025-05-20 23:49:36.889723 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:54.269357 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:56.981741 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:57.253491 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:57.559943 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:57.734361 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:57.900722 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:54:58.081192 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-20 23:55:49.529663 | adasd | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:03:28.946859 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:03:30.358455 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:03:37.757174 | user123 | 2fa_verify_failed | {'code': '123456', 'ip': '127.0.0.1'}
+2025-05-21 00:03:39.356442 | user123 | 2fa_verify_failed | {'code': '123456', 'ip': '127.0.0.1'}
+2025-05-21 00:06:22.478468 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:06:23.153533 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:11:22.121682 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:15:44.412530 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:15:45.535285 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:15:53.483897 | user123 | 2fa_verify_failed | {'code': '123456', 'ip': '127.0.0.1'}
+2025-05-21 00:41:02.432082 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:41:03.763088 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:43:29.939841 | user123 | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:43:48.346952 | ada | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 00:45:03.016456 | ada | 2fa_verify_failed | {'code': '178094', 'ip': '127.0.0.1'}
+2025-05-21 00:45:15.586019 | ada | 2fa_enable | {'ip': '127.0.0.1'}
+2025-05-21 01:22:07.408780 | aaa | 2fa_register | {'ip': '127.0.0.1', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'}
+2025-05-21 01:23:16.550424 | aaa | 2fa_verify_failed | {'code': '844258', 'ip': '127.0.0.1'}
+2025-05-21 01:23:50.152046 | aaa | 2fa_enable | {'ip': '127.0.0.1'}
